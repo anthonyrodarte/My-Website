@@ -52,6 +52,12 @@ h1 {
   max-width: 42em;
 }
 
+.subtitle {
+  color: white;
+  letter-spacing: 1px;
+  font-size: 2rem !important;
+}
+
 /*
  * Header
  */
