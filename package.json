@@ -13,11 +13,32 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.1",
+    "eslint": "4.5.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-node": "5.1.1",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-react": "7.3.0",
+    "eslint-plugin-standard": "3.0.1",
+    "htmlhint": "0.9.13",
+    "nodemon": "^1.17.3",
+    "npm-run-all": "^4.1.2",
+    "stylelint": "8.0.0",
+    "stylelint-config-standard": "17.0.0",
+    "watchify": "^3.11.0"
+  },
   "bugs": {
     "url": "https://github.com/anthonyrodarte/My-Website/issues"
   },
   "homepage": "https://github.com/anthonyrodarte/My-Website#readme",
   "dependencies": {
+    "bootstrap": "^4.0.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   }
