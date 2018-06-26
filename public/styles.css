@@ -5,7 +5,7 @@ body {
   font-family: 'Rajdhani', sans-serif !important;
 }
 
-.landing {
+#landing {
   height: 100%;
   background-image: url(../images/background.jpg);
   background-position: center;
