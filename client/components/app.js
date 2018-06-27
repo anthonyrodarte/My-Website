@@ -8,8 +8,8 @@ export default function App() {
         <div className="col intro">
           <h1 className="display-3">Anthony Rodarte</h1>
           <h3>Web Developer</h3>
-          <button href="https://www.linkedin.com/in/anthony-rodarte-99abb1155/" type="button" className="btn btn-light">LINKEDIN</button>
-          <button href="https://github.com/occs/eleven" type="button" className="btn btn-light">GITHUB</button>
+            <a href="https://www.linkedin.com/in/anthony-rodarte-99abb1155/" className="btn btn-large btn-light">LINKEDIN</a>
+            <a href="https://github.com/anthonyrodarte" className="btn btn-large btn-light">GITHUB</a>
         </div>
       </div>
     </div>
