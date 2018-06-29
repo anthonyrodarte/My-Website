@@ -1,7 +1,6 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 
-export default function App() {
+export default function Landing() {
   return (
     <div className="container text-center">
       <div className="row">

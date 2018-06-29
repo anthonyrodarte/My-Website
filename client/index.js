@@ -1,5 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './components/app'
+import Landing from './components/landing'
 
-ReactDOM.render(<App />, document.querySelector('#landing'))
+ReactDOM.render(<Landing />, document.querySelector('#landing'))
