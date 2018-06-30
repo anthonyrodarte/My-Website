@@ -5,7 +5,7 @@ export default function Projects() {
     <div className="container text-center">
       <div className="row">
         <div className="col">
-          <h2>Projects</h2>
+          <h2 className="headline">Projects</h2>
         </div>
       </div>
     </div>
